@@ -42,6 +42,9 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903" style="color:black">
 ## Conference papers  (peer-reviewed)
 
 <ol id="customlistconference" style="counter-reset: elementcounter 9;">
+<li> M. Farjadnia, <b>A. Fontan</b>, A. Alanwar, M. Molinari, and K. H. Johansson <i>Robust Data-Driven Tube-Based Zonotopic Predictive Control with Closed-Loop Guarantees</i>, 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, December 16-19, 2024 <br>
+[<a href="https://arxiv.org/abs//2409.14366">arXiv:/2409.14366</a>]</li>
+  
 <li> M. Farjadnia, <b>A. Fontan</b>, A. Russo, K. H. Johansson, and M. Molinari, <i>What influences occupants' behavior in residential buildings? An experimental study on window operation in the KTH Live-In Lab</i>, 7th IEEE Conference on Control Technology and Applications (CCTA), Bridgetown, Barbados, August 16-18, 2023 <br>
 [<a href="https://arxiv.org/abs/2307.08090">arXiv:2307.08090</a>]</li>
 
