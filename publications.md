@@ -15,6 +15,12 @@ classes: wide
 
 ## Journal papers 
 <ol id="customlistjournal" style="counter-reset: elementcounter 7;">
+
+<li> <b>A. Fontan</b>, and C. Altafini, <i>From populations to networks: Relating diversity indices and frustration in signed
+graphs</i>, PNAS Nexus, vol. 3 (2), pp. 1–11, 2024, DOI: <a href="https://doi.org/10.1093/pnasnexus/pgae046" style="color:black">10.1093/pnasnexus/pgae046</a>
+</li>
+
+
 <li> <b>A. Fontan</b>, and C. Altafini, <i>Pseudoinverses of signed Laplacian matrices</i>, SIAM Journal on Matrix Analysis and Applications (SIMAX), vol. 44 (2), pp. 622--647, 2023, DOI: <a href="https://doi.org/10.1137/22M1493392" style="color:black">10.1137/22M1493392</a>
 [<a href="/papers/journals/Fontan2021Pseudoinverses.pdf">pdf</a>]
 </li>
@@ -42,7 +48,7 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903" style="color:black">
 ## Conference papers  (peer-reviewed)
 
 <ol id="customlistconference" style="counter-reset: elementcounter 9;">
-<li> M. Farjadnia, <b>A. Fontan</b>, A. Alanwar, M. Molinari, and K. H. Johansson <i>Robust Data-Driven Tube-Based Zonotopic Predictive Control with Closed-Loop Guarantees</i>, 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, December 16-19, 2024 <br>
+<li> M. Farjadnia, <b>A. Fontan</b>, A. Alanwar, M. Molinari, and K. H. Johansson, <i>Robust Data-Driven Tube-Based Zonotopic Predictive Control with Closed-Loop Guarantees</i>, 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, December 16-19, 2024 <br>
 [<a href="https://arxiv.org/abs//2409.14366">arXiv:/2409.14366</a>]</li>
   
 <li> M. Farjadnia, <b>A. Fontan</b>, A. Russo, K. H. Johansson, and M. Molinari, <i>What influences occupants' behavior in residential buildings? An experimental study on window operation in the KTH Live-In Lab</i>, 7th IEEE Conference on Control Technology and Applications (CCTA), Bridgetown, Barbados, August 16-18, 2023 <br>
